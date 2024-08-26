@@ -5,7 +5,7 @@ class Config(object):
     OWNER_ID = "7011990425"
     sudo_users = ["6890857225", "7011990425", "6264760837", "5527022252", "6384484443", "1850686769"]
     GROUP_ID = "-1002041586214"
-    TOKEN = "your bot token"
+    TOKEN = "7164182815:AAEBBXi4yrw0Rg5tVkFxnK3exxL8wFNum7I"
     mongo_url = "your db"
     PHOTO_URL = ["https://telegra.ph/file/7e5398823512d307128a3.jpg", "https://telegra.ph/file/c45dcb207d81e97cb4f6a.jpg", "https://telegra.ph/file/0bc6d65878e8300fbf0f8.jpg", "https://telegra.ph/file/0afb45203ff162ee7227b.jpg"]
     SUPPORT_CHAT = "lustsupport"
