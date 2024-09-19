@@ -8,8 +8,8 @@ class Config(object):
     TOKEN = "7271611709:AAHfLc4cAEvk-tNFYvHniy60p2rZZt8Roe0"
     mongo_url = "mongodb+srv://levi:levi@cluster0.5nctdgf.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/7e5398823512d307128a3.jpg", "https://telegra.ph/file/c45dcb207d81e97cb4f6a.jpg", "https://telegra.ph/file/0bc6d65878e8300fbf0f8.jpg", "https://telegra.ph/file/0afb45203ff162ee7227b.jpg"]
-    SUPPORT_CHAT = "+pmOzZ6tPbWxmZTg1"
-    UPDATE_CHAT = "+pmOzZ6tPbWxmZTg1"
+    SUPPORT_CHAT = "dynamic_gangs"
+    UPDATE_CHAT = "Seizer_updates"
     BOT_USERNAME = "Seizetestbot"
     CHARA_CHANNEL_ID = -1002023474262
     api_id = "20457610"
